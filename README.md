@@ -1,5 +1,5 @@
 # Deployment  
-(https://income2.onrender.com/predict)  
+(https://income2.onrender.com/)  
 ### **1️⃣ Endpoint**
 - **URL:** `https://income2.onrender.com/predict`
 - **Method:** `POST`
